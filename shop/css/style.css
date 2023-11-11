@@ -882,6 +882,7 @@ ul.dropdown-menu>li>a:hover {
     font-size: 25px;
     text-transform: uppercase;
     padding-bottom: 10px;
+    
 }
 
 .flat-caption h1 {
@@ -908,6 +909,7 @@ ul.dropdown-menu>li>a:hover {
 .flat-caption p {
     font-size: 14px;
     text-align: center;
+    color: black;
 }
 
 .flat-button {
@@ -924,7 +926,7 @@ ul.dropdown-menu>li>a:hover {
 }
 
 .flat-button a.more:hover {
-    background-color: rgb(190, 210, 247)
+    background-color: rgb(212, 66, 66)
 }
 
 .flat-image img {
